@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:1A1A1A&height=220&section=header&text=Udenbaguse&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Creator%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18)
 
-<h1 align="center"><i>Hello World, i'm Syam A.K.A Udenbaguse</i></h1>
+<h1 align="center"><i>Hello World, i'm <span style="color:skyblue">Syam</span> A.K.A <b>Udenbaguse</b></i></h1>
 <p align="center"><b>Build. Share. Improve.</b></p>
 
 <p align="center">
@@ -8,25 +8,25 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile repository.
+  Welcome to my GitHub profile repository
 </p>
 
-## YouTube Channel ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+## YouTube Channel ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) :
 - [Udenbaguse](https://www.youtube.com/@Udenbaguse)
 
-## Project Solo
+## Project Solo :
 - [Syam Final Test](https://syam-final-test.vercel.app/)
 - [Rubah Warna](https://rubah-warna.vercel.app/)
 
-## Project Kolaborasi
+## Project Kolaborasi :
 - Repository: [musictify](https://github.com/udenbaguse/musictify)
 
-## Project Open Source ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+## Project Open Source ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) :
 - [auto-svelte-pages](https://www.npmjs.com/package/auto-svelte-pages)
 - [auto-svelte-pages-ts](https://www.npmjs.com/package/auto-svelte-pages-ts)
 - [clean-orphan-uploads-cli](https://www.npmjs.com/package/clean-orphan-uploads-cli)
-- [images-to-avif-cli](https://www.npmjs.com/package/images-to-avif-cli)
 - [images-convert](https://www.npmjs.com/package/images-convert)
+- [images-to-avif-cli](https://www.npmjs.com/package/images-to-avif-cli)
 - [images-to-svg](https://www.npmjs.com/package/images-to-svg)
 - [images-to-webp-cli](https://www.npmjs.com/package/images-to-webp-cli)
 - [web-frontend-performance-ind](https://www.npmjs.com/package/web-frontend-performance-ind)
