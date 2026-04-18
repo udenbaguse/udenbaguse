@@ -1,0 +1,21 @@
+aku ingin kamu membantuku membuat spesial repository untuk profile githubku di README.md
+
+sertakan ini:
+1. Channel youtube Udenbaguse: https://www.youtube.com/@Udenbaguse
+2. Project Solo:
+   - https://syam-final-test.vercel.app/
+   - https://rubah-warna.vercel.app/
+3. Project Kolaborasi:
+   repository: https://github.com/udenbaguse/musictify
+4. Project Open Source:
+   - https://www.npmjs.com/package/auto-svelte-pages
+   - https://www.npmjs.com/package/auto-svelte-pages-ts
+   - https://www.npmjs.com/package/clean-orphan-uploads-cli
+   - https://www.npmjs.com/package/images-to-avif-cli
+   - https://www.npmjs.com/package/images-convert
+   - https://www.npmjs.com/package/images-to-svg
+   - https://www.npmjs.com/package/images-to-webp-cli
+   - https://www.npmjs.com/package/web-frontend-performance-ind  
+
+5. sertakan gambar ./photo-profile.avif 
+6. tuliskan "play chess with me" dan buat game catur dibawahnya untuk pengunjung bisa bermain catur denganku    
