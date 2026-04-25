@@ -29,6 +29,7 @@
 - [images-to-avif-cli](https://www.npmjs.com/package/images-to-avif-cli)
 - [images-to-svg](https://www.npmjs.com/package/images-to-svg)
 - [images-to-webp-cli](https://www.npmjs.com/package/images-to-webp-cli)
+- [syambot-cli](https://www.npmjs.com/package/@syamaitech/syambot-cli)
 - [web-frontend-performance-ind](https://www.npmjs.com/package/web-frontend-performance-ind)
 
 ##
