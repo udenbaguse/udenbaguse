@@ -18,7 +18,7 @@
 - [Syam Final Test](https://syam-final-test.vercel.app/)
 - [Rubah Warna](https://rubah-warna.vercel.app/)
 
-## Project Kolaborasi :
+## Project Collaboration :
 - Repository: [musictify](https://github.com/udenbaguse/musictify)
 
 ## Project Open Source ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) :
