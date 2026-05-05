@@ -1,14 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:1A1A1A&height=220&section=header&text=Udenbaguse&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Creator%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18)
 
 <h1 align="center"><i>Hello World,  Welcome to my GitHub profile repository</i></h1>
-<p align="center"><b>Build. Share. Improve.</b></p>
 
 <p align="center">
   <img src="./photo-profile.avif" alt="Udenbaguse Profile" width="220" />
 </p>
 
 <p align="center">
- <span style="color:skyblue">Syam</span> A.K.A <b>Udenbaguse</b>
+ <b>Syam</b> A.K.A <b>Udenbaguse</b>
+ <p align="center"><b>Build⚒️ Share📤 Improve🛠️</b></p>
 </p>
 
 ## YouTube Channel ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) :
