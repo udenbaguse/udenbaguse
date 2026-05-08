@@ -21,7 +21,7 @@
 ## Project Collaboration :
 - Repository: [musictify](https://github.com/udenbaguse/musictify)
 
-## Project Open Source ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) :
+## Packages ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) :
 - [auto-svelte-pages](https://www.npmjs.com/package/auto-svelte-pages)
 - [auto-svelte-pages-ts](https://www.npmjs.com/package/auto-svelte-pages-ts)
 - [clean-orphan-uploads-cli](https://www.npmjs.com/package/clean-orphan-uploads-cli)
@@ -31,6 +31,9 @@
 - [images-to-webp-cli](https://www.npmjs.com/package/images-to-webp-cli)
 - [syambot-cli](https://www.npmjs.com/package/@syamaitech/syambot-cli)
 - [web-frontend-performance-ind](https://www.npmjs.com/package/web-frontend-performance-ind)
+
+## Extension ![VS Code](https://shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=blue) :
+- [Javascript Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.javascript-dokumentasi-indonesia)
 
 ##
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1200&color=E50914&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together.;Open+Source+is+my+playground.)
