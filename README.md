@@ -30,6 +30,7 @@
 - [images-to-svg](https://www.npmjs.com/package/images-to-svg)
 - [images-to-webp-cli](https://www.npmjs.com/package/images-to-webp-cli)
 - [syambot-cli](https://www.npmjs.com/package/@syamaitech/syambot-cli)
+- [vscode-template-extension-by-syam](https://www.npmjs.com/package/vscode-template-extension-by-syam)
 - [web-frontend-performance-ind](https://www.npmjs.com/package/web-frontend-performance-ind)
 
 ## Extension ![VS Code](https://shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=blue) :
