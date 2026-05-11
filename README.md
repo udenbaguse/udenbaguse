@@ -17,6 +17,7 @@
 ## Project Solo :
 - [Syam Final Test](https://syam-final-test.vercel.app/)
 - [Rubah Warna](https://rubah-warna.vercel.app/)
+- [Viyanti Parfumes](https://website-parfum-viyanti.edgeone.dev/)
 
 ## Project Collaboration :
 - Repository: [musictify](https://github.com/udenbaguse/musictify)
