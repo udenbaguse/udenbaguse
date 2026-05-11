@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:1A1A1A&height=220&section=header&text=Udenbaguse&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Creator%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18)
 
-<h1 align="center"><i>Hello World,  Welcome to my GitHub profile repository</i></h1>
+<h1 align="center"><i>Hello World 👋,  Welcome to my GitHub profile repository</i></h1>
 
 <p align="center">
   <img src="./photo-profile.avif" alt="Udenbaguse Profile" width="220" />
@@ -39,4 +39,6 @@
 - [Javascript Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.javascript-dokumentasi-indonesia)
 - [Svelte Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.svelte-dokumentasi-indonesia)
 ##
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1200&color=E50914&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together.;Open+Source+is+my+playground.)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1200&color=100:0072FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together.;Open+Source+is+my+playground.;Building+tools+for+developers.;Sharing+programming+knowledge+on+YouTube.;Open+source+enthusiast+from+Indonesia.;)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:1A1A1A&height=120&section=footer)
