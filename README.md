@@ -15,8 +15,8 @@
 - [Udenbaguse](https://www.youtube.com/@Udenbaguse)
 
 ## Project Solo :
-- [Syam Final Test](https://syam-final-test.vercel.app/)
 - [Rubah Warna](https://rubah-warna.vercel.app/)
+- [Syam Final Test](https://syam-final-test.vercel.app/)
 - [Viyanti Parfumes](https://website-parfum-viyanti.edgeone.dev/)
 
 ## Project Collaboration :
@@ -35,7 +35,8 @@
 - [web-frontend-performance-ind](https://www.npmjs.com/package/web-frontend-performance-ind)
 
 ## Extension ![VS Code](https://shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=blue) :
+- [Go Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.go-dokumentasi-indonesia)
 - [Javascript Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.javascript-dokumentasi-indonesia)
-
+- [Svelte Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.svelte-dokumentasi-indonesia)
 ##
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1200&color=E50914&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together.;Open+Source+is+my+playground.)
