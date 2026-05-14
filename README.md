@@ -5,40 +5,63 @@
 <p align="center">
   <img src="./photo-profile.avif" alt="Udenbaguse Profile" width="220" />
 </p>
-
 <p align="center">
  <b>Syam</b> A.K.A <b>Udenbaguse</b>
  <p align="center"><b>Build⚒️ Share📤 Improve🛠️</b></p>
 </p>
 
-## YouTube Channel ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) :
+## 👨‍💻 About Me
+<p>I am an open source developer from Indonesia who is known for practical and visionary works such as building npm packages, VS Code extensions, and sharing best practices for the developer community.</p>
+
+## 🚀 Main Work
+- 13 Packages NPM → a simple utility that simplifies developer workflow.  
+- 3 Extension VS Code → Hover-popup documentation to facilitate the learning process or understanding the code.  
+- @udenbaguse/syamcode (2026) → Unique Minifier that:  
+  - Converts variable/function names to SHA‑256 hashes.  
+  - Generate syamkey file to restore original code.  
+  - Provide combinations minify + obfuscation + reversible restore.
+
+## 🔮 Future Vision
+- Inline Suggestion Offline (2026–2027) → a major project to bring code suggestions that run offline, focusing on privacy and accessibility.  
+- Education Community → keep sharing on youtube channel, even though sometimes facing resistance.  
+- Global Branding → bringing the identity of Indonesian developers to the international stage.
+
+## ⚖️ Philosophy
+> “Code should not only work, but also be maintainable, understandable, and shareable.”
+
+---
+
+### YouTube Channel ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) :
 - [Udenbaguse](https://www.youtube.com/@Udenbaguse)
 
-## Project Solo :
+### Project Solo :
 - [Rubah Warna](https://rubah-warna.vercel.app/)
 - [Syam Final Test](https://syam-final-test.vercel.app/)
 - [Viyanti Parfumes](https://website-parfum-viyanti.edgeone.dev/)
 
-## Project Collaboration :
+### Project Collaboration :
 - Repository: [musictify](https://github.com/udenbaguse/musictify)
 
-## Packages ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) :
+### Packages ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) :
 - [auto-svelte-pages](https://www.npmjs.com/package/auto-svelte-pages)
 - [auto-svelte-pages-ts](https://www.npmjs.com/package/auto-svelte-pages-ts)
 - [clean-orphan-uploads-cli](https://www.npmjs.com/package/clean-orphan-uploads-cli)
+- [inline-suggestion](https://www.npmjs.com/package/@syamaitech/inline-suggestion)
 - [images-convert](https://www.npmjs.com/package/images-convert)
 - [images-to-avif-cli](https://www.npmjs.com/package/images-to-avif-cli)
 - [images-to-svg](https://www.npmjs.com/package/images-to-svg)
+- [pdf-compress](https://www.npmjs.com/package/pdf-compress)
 - [images-to-webp-cli](https://www.npmjs.com/package/images-to-webp-cli)
 - [syambot-cli](https://www.npmjs.com/package/@syamaitech/syambot-cli)
+- [syamcode](https://www.npmjs.com/package/@udenbaguse/syamcode)
 - [vscode-template-extension-by-syam](https://www.npmjs.com/package/vscode-template-extension-by-syam)
 - [web-frontend-performance-ind](https://www.npmjs.com/package/web-frontend-performance-ind)
 
-## Extension ![VS Code](https://shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=blue) :
+### Extension ![VS Code](https://shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=blue) :
 - [Go Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.go-dokumentasi-indonesia)
 - [Javascript Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.javascript-dokumentasi-indonesia)
 - [Svelte Dokumentasi Indonesia](https://marketplace.visualstudio.com/items?itemName=udenbaguse.svelte-dokumentasi-indonesia)
-##
+
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1200&color=100:0072FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together.;Open+Source+is+my+playground.;Building+tools+for+developers.;Sharing+programming+knowledge+on+YouTube.;Open+source+enthusiast+from+Indonesia.;)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:1A1A1A&height=120&section=footer)
